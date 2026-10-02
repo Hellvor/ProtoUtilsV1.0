@@ -1,2 +1,2 @@
-GithubToken=
-GistID=
+GithubToken=paste_github_token_here
+GistID=paste_the_id_of_the_gist_you_want_to_sync_to_here
